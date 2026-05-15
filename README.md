@@ -1,4 +1,4 @@
-# 🍻 Boyz Party Tracker
+# 🍻 Boyz Party Tracker - IPL
 ### Legends Cricket Association
 
 ---
