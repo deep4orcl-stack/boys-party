@@ -1,3 +1,12 @@
+Fix the Track page losing saved changes
+New format for Track page - a table/grid view showing:
+
+Name | Date1 | Date2 | Date3 | Total Paid | Total Due
+Each cell shows W/L result and payment status
+Add/delete members functionality
+
+Keep summary page as is
+
 # 🍻 Boyz Party Tracker - IPL
 ### Legends Cricket Association
 
