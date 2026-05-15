@@ -1,4 +1,4 @@
-# 🍻 Booze Party Tracker
+# 🍻 Boyz Party Tracker
 ### Legends Cricket Association
 
 ---
@@ -7,7 +7,7 @@
 
 ### Step 1 – Create a GitHub Repository
 1. Go to **github.com** → click **"New repository"**
-2. Name it: `booze-party-tracker`
+2. Name it: `boyz-party-tracker`
 3. Set to **Private** (recommended)
 4. Click **Create repository**
 
@@ -43,7 +43,7 @@
 ---
 
 ### Step 4 – Get your link
-- Vercel gives you a link like: `https://booze-party-tracker.vercel.app`
+- Vercel gives you a link like: `https://boyz-party-tracker.vercel.app`
 - Share this link with yourself via WhatsApp/Notes
 
 ---
